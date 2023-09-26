@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 import java.util.*;
-=======
-import java.util.HashMap;
-import java.util.Scanner;
->>>>>>> 9d62aa7794ad98970955eebb1e3b400a43c3549d
 
 public class J03010 {
     static HashMap<String, Integer> map = new HashMap<>();
