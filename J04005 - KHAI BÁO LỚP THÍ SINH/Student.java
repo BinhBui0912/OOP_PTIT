@@ -6,14 +6,15 @@ public class Student {
     
     public Student(){
     }
-    
-    public Student(String name, String birth, double d1, double d2, double d3){
+
+    public Student(String name, String birth, double d1, double d2, double d3) {
         this.name = name;
         this.birth = birth;
         this.d1 = d1;
         this.d2 = d2;
         this.d3 = d3;
     }
+      
     
     @Override
     public String toString(){
